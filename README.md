@@ -13,23 +13,9 @@ This repo focuses on the **user interface**, **API integration**, and **interact
 
 This demo shows how the frontend interacts with the Machine Learning API to generate housing price forecasts and display long-term analytics.
 
-<div align="center">
-  <a href="https://youtu.be/Gmfty7DU3rU">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" width="60%" />
-  </a>
+[![HousingHub Demo](https://img.youtube.com/vi/Gmfty7DU3rU/0.jpg)](https://www.youtube.com/watch?v=Gmfty7DU3rU)
 
-  <br/><br/>
-
-  <iframe width="700" height="394"
-    src="https://www.youtube.com/embed/Gmfty7DU3rU"
-    title="HousingHub Demo"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
-Key features demonstrated:
+<iframe width="700" height="394" src="https://www.youtube.com/embed/Gmfty7DU3rU" title="HousingHub Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Short-term vs. long-term forecasting
 
