@@ -15,8 +15,6 @@ This demo shows how the frontend interacts with the Machine Learning API to gene
 
 [![HousingHub Demo](https://img.youtube.com/vi/Gmfty7DU3rU/0.jpg)](https://www.youtube.com/watch?v=Gmfty7DU3rU)
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/Gmfty7DU3rU" title="HousingHub Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 1. Short-term vs. long-term forecasting
 
 - If the forecast range is ≤ 60 days, the request is handled by the N-Beats short-term model
