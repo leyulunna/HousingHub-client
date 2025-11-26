@@ -1,7 +1,7 @@
 # HousingHub Client – Frontend
 
 This repository contains the **frontend client** for the HousingHub project.  
-It is built with **React (Create React App)** and connects to the Machine Learning API backend.
+It is built with React and connects to the Machine Learning API backend.
 
 The backend ML API repository is here:
 
